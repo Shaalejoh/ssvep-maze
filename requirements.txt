@@ -1,0 +1,12 @@
+# The game
+numpy>=1.24
+scipy>=1.10
+pygame>=2.5
+brainflow>=5.10
+pyserial>=3.5        # finds the BLED112 dongle's COM port
+
+# The analysis scripts in tools/
+matplotlib>=3.7
+
+# Running the tests
+pytest>=7

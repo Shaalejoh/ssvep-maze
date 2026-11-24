@@ -1,0 +1,19 @@
+# Recorded sessions (EEG data stays on your own computer)
+data/
+
+# Video files
+*.mov
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
