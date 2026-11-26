@@ -4,6 +4,12 @@ A maze game you play with your eyes and an EEG headset, no hands or keyboard.
 
 ![Playing a maze with the headset](docs/images/demo.gif)
 
+**Short demo (52 s):**
+
+https://github.com/user-attachments/assets/49713f55-b49b-4ccd-8c1c-eb72a67daeeb
+
+**Full walkthrough (5 min):** [watch on YouTube](https://youtu.be/OEm6jOV22Ak?si=iLtVafPRquwm8RIr). It covers the headset, how SSVEP works, calibration, an uncut maze run, and results.
+
 There are four buttons around the maze and each one flickers at a different rate (11, 13, 15 and 17 Hz).
 When you look at one of them, your visual cortex starts firing at that same rate, which is called an
 SSVEP (steady-state visually evoked potential). I have three dry electrodes on the back of my head
